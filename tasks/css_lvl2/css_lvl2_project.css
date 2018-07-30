@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Eczar', serif;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(155, 153, 153);
+}
+
+table{
+    margin: auto;
+    width: 75%;
+}
+
+td{
+    height: 500px;
+    border: 5px solid rgb(155, 153, 153);
+}
+
+#b{
+    background-color: #1a4993;
+}
+
+#g{
+    background-color: #15d397;
+}
+
+#y{
+    background-color: #eaea59;
+}
+
+#o{
+    background-color: #ff9d00;
+}
+
+#r{
+    background-color: #ff3838;
+}
